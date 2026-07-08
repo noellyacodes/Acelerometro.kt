@@ -1,5 +1,3 @@
-MainActivity.kt:
-
 package com.example.acelerometroapp
 
 import android.content.Context
